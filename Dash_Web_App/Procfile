@@ -1,0 +1,1 @@
+web: gunicorn Financial_wep_app:server
